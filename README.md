@@ -132,5 +132,4 @@
 
 ---
 
-_“Not all bugs are mistakes, some are just misunderstood features.”_ 😄
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

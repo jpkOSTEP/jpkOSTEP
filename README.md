@@ -1,6 +1,6 @@
 <!-- Profile README for Jay Kania -->
 <h1 align="center">Hi, I'm Jay 👋</h1>
-<p align="center">Full-Stack Developer | Systems Engineer | Educator </p>
+<p align="center">Full-Stack Software Engineer | Systems Engineer | Educator </p>
 
 ---
 

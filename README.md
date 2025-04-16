@@ -125,6 +125,10 @@
 - 💼 [LinkedIn](https://linkedin.com/in/jay-kania-0x7)
 - 📧 Reach out via my portfolio contact form.
 
+
+--- 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ierzzycbcdzde2c6drthpletai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=jaykania&style=flat-square&color=0ab9ff)

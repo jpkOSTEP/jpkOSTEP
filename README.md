@@ -89,7 +89,7 @@
 ### 📊 GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jaykania&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykania&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpkOSTEP&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykania&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpkOSTEP&theme=tokyonight)
 

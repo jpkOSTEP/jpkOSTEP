@@ -157,8 +157,4 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=jaykania&style=flat-square&color=0ab9ff)
-
----
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)

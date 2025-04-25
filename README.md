@@ -1,18 +1,34 @@
 <!-- Profile README for Jay Kania -->
-<h1 align="center">Hi, I'm Jay 👋</h1>
-<p align="center">Full-Stack Software Engineer | Systems Engineer | Educator </p>
+
+<p align="center"> 
+  <a href="https://jaykania.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=700&pause=1500&color=FF9F1C&size=32&repeat=false&center=true&lines=Hi%2C+I'm+Jay+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<p align="center"> 
+  <a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1500&color=7DCFFF&width=700&height=45&size=24&center=true&lines=Full-stack+engineer;Systems+Engineer;Ex-Rutgers+CS+Instructor;Builder+of+AI-powered+apps+%26+tools;Cloud-native+developer+on+GCP+%2F+AWS;Creative+coder+with+a+sense+of+humor;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🧠 Computer Science graduate from Rutgers, where I also taught core systems courses.
-- 🔧 I build scalable systems, web apps, and occasionally – chaos-resilient backend pipelines.
-- 💬 I enjoy translating complexity into elegant, production-grade solutions.
-- 🎧 Ex-DJ, now just vibing to house music while I refactor.
+> 🧠 Computer Science graduate from Rutgers, where I also taught core systems courses.
+> 
+> 🔧 I design scalable systems, craft full-stack web apps, and engineer chaos-resilient backend pipelines.
+> 
+> 💬 I love transforming complex challenges into elegant, production-grade solutions.
+> 
+> 🎧 Ex-DJ turned coder... still vibing to house music while refactoring code.
 
 ---
-### 💻 Tech Stack:
+
+<details close> 
+  <summary><h2>💻 Tech Stack:</h2></summary>
 
 #### 🧠 Languages
 
@@ -84,18 +100,24 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
+</details>
 
 ---
-### 📊 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaykania&theme=gruvbox&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykania&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykania&layout=compact&theme=tokyonight)
+<details open> 
+  <summary><h2>📊 GitHub Stats</h2></summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jaykania&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- ![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykania&show_icons=true&theme=tokyonight&hide=contribs&count_private=true) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpkOSTEP&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykania&layout=compact&theme=tokyonight)
+
+</details>
 
 ---
 
-### 🚀 Featured Projects (Full-Stack • Systems • AI/ML)
+<details close> 
+  <summary><h2>🚀 Featured Projects (Full-Stack • Systems • AI/ML)</h2></summary>
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -114,20 +136,24 @@
 | **📊 Stock Trading Strategy Evaluation** | Compared manual vs ML-based trading using technical indicators and ensemble learning. Beat benchmarks by 110% on test data. | `Python`, `MACD`, `Bollinger Bands`, `Ensemble ML`, `Finance` |
 | **🏛️ Academic Portal – SNPIT & RC** | Role-based academic dashboard for students, faculty, and admin to manage coursework and communications. | `React`, `Node.js`, `MySQL`, `Bootstrap`, `HTML/CSS` |
 
-
 > See more at [jaykania.com](https://jaykania.com)
+</details>
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🌐 [Website](https://jaykania.com)
+- 🌐 [Portfolio Website](https://jaykania.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jay-kania-0x7)
 - 📧 Reach out via my portfolio contact form.
 
-
 --- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ierzzycbcdzde2c6drthpletai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<section align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ierzzycbcdzde2c6drthpletai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) >
+
+</section>
 
 ---
 

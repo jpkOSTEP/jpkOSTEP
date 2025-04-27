@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1500&color=7DCFFF&width=700&height=45&size=24&center=true&lines=Full-stack+engineer;Systems+Engineer;Ex-Rutgers+CS+Instructor;Builder+of+AI-powered+apps+%26+tools;Cloud-native+developer+on+GCP+%2F+AWS;Creative+coder+with+a+sense+of+humor;Always+learning%2C+always+shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1500&color=7DCFFF&width=700&height=45&size=24&center=true&lines=Full-stack+Engineer;Systems+Engineer;Ex-Rutgers+CS+Instructor;Builder+of+AI-powered+apps+%26+tools;Cloud-native+developer+on+GCP+%2F+AWS;Creative+coder+with+a+sense+of+humor;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 </p>
 
@@ -106,12 +106,13 @@
 
 <details open> 
   <summary><h2>📊 GitHub Stats</h2></summary>
+  <section align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jaykania&theme=tokyonight&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=jaykania&theme=tokyonight&margin-w=10)]
 <!-- ![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaykania&show_icons=true&theme=tokyonight&hide=contribs&count_private=true) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpkOSTEP&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpkOSTEP&layout=compact&theme=tokyonight)
-
+</section>
 </details>
 
 ---
@@ -145,13 +146,13 @@
 
 - 🌐 [Portfolio Website](https://jaykania.com)
 - 💼 [LinkedIn](https://linkedin.com/in/jay-kania-0x7)
-- 📧 Reach out via my portfolio contact form.
+- 📧 Reach out via my [portfolio](https://jaykania.com) contact form.
 
 --- 
 
 <section align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ierzzycbcdzde2c6drthpletai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) >
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ierzzycbcdzde2c6drthpletai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
 </section>
 

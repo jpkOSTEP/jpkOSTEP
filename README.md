@@ -148,6 +148,13 @@
 - 💼 [LinkedIn](https://linkedin.com/in/jay-kania-0x7)
 - 📧 Reach out via my [portfolio](https://jaykania.com) contact form.
 
+
+---
+
+✍️ **What’s with the username?**  
+`jpkOSTEP` = my initials + a not-so-subtle love letter to *Operating Systems: Three Easy Pieces* — my favorite book and the reason I geek out over virtual memory and page tables more than I probably should.
+
+
 --- 
 
 <section align="center">

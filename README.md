@@ -123,7 +123,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **📋 EHR System** | Full-stack HIPAA-compliant Electronic Health Record platform with role-based access, real-time updates, Twilio alerts, and serverless deployment on GCP. | `Angular`, `Firebase`, `Cloud Run`, `Twilio`, `Node.js`, `Redis`, `Docker` |
-| **🎞️ Wrestling Club Website** | Video-centric site with swimlane sorting, smooth transitions, and event promotion. Built for discoverability and user retention. | `Next.js`, `TailwindCSS`, `Framer Motion`, `React`, `TypeScript` |
+| **🎞️ Wrestling Club Website** | Video-centric site with swimlane sorting, smooth transitions, and event promotion. Built for discoverability and user retention. | `Next.js`, `TailwindCSS`, `Framer Motion`, `React`, `TypeScript`, `AWS` |
 | **🧠 Program Synthesis with NEAR** | Classified behavior from Caltech’s CalMS21 dataset using interpretable neuro-symbolic programs with hand-crafted DSLs and guided A* search. | `Python`, `PyTorch Lightning`, `Symbolic DSL`, `AI/ML` |
 | **📱 AWS Cloud Mobile App** | Mobile app with Flask backend, hosted on AWS EC2, RDS & Redshift. Designed for scalable async queries and low-latency access. | `React Native`, `Flask`, `AWS EC2`, `AWS RDS`, `Redshift`, `REST APIs` |
 | **🛡️ Rowhammer Attack on Android** | Simulated Drammer exploit using C++ & Android NDK to expose privilege escalation via DRAM bit flips without root access. | `C++`, `Android NDK`, `Memory Attacks`, `Security`, `Hardware` |
